@@ -1,0 +1,15 @@
+{
+    "description": "Merlin04",
+    "version": "0.0.1",
+    "includePath": [
+        "M04_SRC/QPROTOSRC    "
+    ],
+    "repository": "git@github.com:AdrianAtArcad/M04Lab.git",
+    "objlib": "&L01",
+    "curlib": "*CRTDFT",
+    "extensions": {
+        "arcad": {
+            "libraryPrefix": "M04"
+        }
+    }
+}
