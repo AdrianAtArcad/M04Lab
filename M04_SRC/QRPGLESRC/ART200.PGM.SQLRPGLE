@@ -54,7 +54,7 @@
      d mode            s              3
 
      d crt             c                   'CRT'
-     d upd             c                   'UPD'
+     d upd             c                   'upd'
      d prp             c                   'prp'
      d lod             c                   'lod'
      d dsp             c                   'dsp'
